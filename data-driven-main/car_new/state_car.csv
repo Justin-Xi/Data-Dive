@@ -1,0 +1,51 @@
+state,top_model,top_model_sales,second_best_model,second_best_model_sales,third_best_model,third_best_model_sales,fourth_best_model,fourth_best_model_sales,fifth_best_model,fifth_best_model_sales
+Alabama,Ford F-150,3.8,Chevrolet Silverado 1500,3.7,Toyota Camry,3,Nissan Altima,2.4,Ram 1500,2
+Alaska,Ford F-150,4.6,Ram 1500,4.2,Chevrolet Silverado 1500,3.8,Jeep Grand Cherokee,2.5,Toyota Tacoma,2
+Arizona,Ford F-150,2.6,Chevrolet Silverado 1500,2.6,Ram 1500,2.3,Toyota Tacoma,2,Toyota Camry,2
+Arkansas,Ford F-150,4.1,Chevrolet Silverado 1500,3.9,GMC Sierra 1500,3.5,Ram 1500,3.1,Toyota Camry,1.8
+California,Honda Civic,3.5,Toyota Camry,2.6,Honda Accord,2.5,Toyota Corolla,2.2,Toyota Tacoma,2
+Colorado,Ford F-150,4.3,Ram 1500,2.6,Chevrolet Silverado 1500,2.3,Toyota Tacoma,2.1,Toyota 4Runner,1.9
+Connecticut,Ford F-150,4.3,Ram 1500,2.6,Chevrolet Silverado 1500,2.3,Toyota Tacoma,2.1,Honda Civic,1.8
+Delaware,Chevrolet Equinox,2.8,Chevrolet Silverado 1500,2.7,Ford F-150,2.6,Ram 1500,2.3,Jeep Grand Cherokee,2.1
+Florida,Toyota Corolla,3.1,Ford F-150,2.6,Toyota Camry,2.2,Toyota RAV4,2,Chevrolet Silverado 1500,2
+Georgia,Ford F-150,3.4,Chevrolet Silverado 1500,2.8,Toyota Camry,2.3,Ram 1500,2.1,Nissan Altima,2
+Hawaii,Toyota Tacoma,5.2,Honda Civic,3.1,Toyota Corolla,3,Toyota 4Runner,2.7,Honda CR-V,2.2
+Idaho,Ford F-150,5.8,Chevrolet Silverado 1500,3.9,Ram 1500,3.7,Toyota Tacoma,2.8,GMC Sierra 1500,2.3
+Illinois,Ford F-150,5.8,Chevrolet Silverado 1500,3.9,Ram 1500,3.7,Toyota Tacoma,2.8,GMC Sierra 1500,2.3
+Indiana,Chevrolet Equinox,4,Chevrolet Silverado 1500,3.4,Ford F-150,3.2,Ram 1500,2.5,Ford Escape,2.3
+Iowa,Chevrolet Silverado 1500,6,Ford F-150,5.5,Chevrolet Equinox,4.3,Ram 1500,3.4,Ford Escape,2.5
+Kansas,Ford F-150,5.4,Chevrolet Silverado 1500,3.9,Ram 1500,2.8,Chevrolet Equinox,2.6,Ford Escape,2.6
+Kentucky,Chevrolet Silverado 1500,4.1,Ford F-150,3.9,Ram 1500,3.3,Chevrolet Equinox,2.6,Toyota Camry,2.1
+Louisiana,Chevrolet Silverado 1500,4.1,Ford F-150,3.9,Ram 1500,2.7,GMC Sierra 1500,2.7,Nissan Altima,2.6
+Maine,Ford F-150,5.5,Chevrolet Silverado 1500,4.5,Ram 1500,3.5,Ford Escape,2.7,Toyota RAV4,2.6
+Maryland,Toyota Camry,2.4,Ford F-150,2.3,Toyota RAV4,2.1,Honda Civic,2,Honda Accord,1.9
+Massachusetts,Toyota RAV4,3.4,Honda CR-V,3,Jeep Grand Cherokee,2.5,Ford F-150,2.5,Honda Civic,2.4
+Michigan,Chevrolet Equinox,8.3,Chevrolet Silverado 1500,4.4,Ford F-150,4.2,Ford Escape,4.1,Ram 1500,3.9
+Minnesota,Ford F-150,4.8,Chevrolet Silverado 1500,4.4,Chevrolet Equinox,3.6,Ram 1500,3.3,Jeep Cherokee,2.4
+Mississippi,Ford F-150,5,Chevrolet Silverado 1500,3.8,Toyota Camry,3.4,Nissan Altima,3.1,GMC Sierra 1500,2.5
+Missouri,Ford F-150,4.1,Chevrolet Silverado 1500,3.3,Chevrolet Equinox,2.7,Ram 1500,2.7,Ford Escape,2.5
+Montana,Ford F-150,7.5,Chevrolet Silverado 1500,4.9,Ram 1500,4.1,GMC Sierra 1500,3,Ford Explorer,2.4
+Nebraska,Ford F-150,5,Chevrolet Silverado 1500,4.8,Ram 1500,3.5,Chevrolet Equinox,3.1,Jeep Cherokee,2.5
+Nevada,Ford F-150,2,Toyota RAV4,2,Chevrolet Silverado 1500,1.9,Ram 1500,1.9,Toyota Camry,1.9
+New Hampshire,Ford F-150,3.8,Chevrolet Silverado 1500,3.2,Toyota RAV4,2.7,Ram 1500,2.5,Nissan Rogue,2.5
+New Jersey,Nissan Rogue,2.4,Honda Civic,2.3,Jeep Grand Cherokee,2.3,Honda Accord,2,Honda CR-V,2
+New Mexico,Ford F-150,4,Chevrolet Silverado 1500,3.5,Ram 1500,2.6,Chevrolet Malibu,2.2,Nissan Altima,1.9
+New York,Chevrolet Equinox,3.6,Nissan Rogue,2.8,Jeep Grand Cherokee,2.5,Honda CR-V,2.3,Chevrolet Silverado 1500,2.2
+North Carolina,Chevrolet Silverado 1500,2.9,Ford F-150,2.9,Toyota Camry,2.1,Ram 1500,2,Nissan Altima,1.8
+North Dakota,Ford F-150,7.3,Chevrolet Silverado 1500,6.2,Ram 1500,4.2,GMC Sierra 1500,3.4,Chevrolet Equinox,3.2
+Ohio,Chevrolet Equinox,4.1,Ford F-150,3.3,Ram 1500,3.1,Chevrolet Silverado 1500,2.7,Ford Escape,2.4
+Oklahoma,Ford F-150,4.3,Chevrolet Silverado 1500,3.6,Ram 1500,2.7,Chevrolet Equinox,2.1,Nissan Rogue,2.1
+Oregon,Honda Civic,2.6,Ford F-150,2.6,Ram 1500,2.2,Honda CR-V,2.1,Toyota Tacoma,2.1
+Pennsylvania,Ford F-150,3.2,Chevrolet Equinox,2.6,Ram 1500,2.5,Nissan Rogue,2.3,Chevrolet Silverado 1500,2.2
+Rhode Island,Toyota RAV4,2.7,Nissan Rogue,2.7,Chevrolet Equinox,2.4,Jeep Grand Cherokee,2.4,Ford F-150,2.3
+South Carolina,Toyota Camry,2,Nissan Altima,2.1,Ram 1500,2.4,Chevrolet Silverado 1500,3.5,Ford F-150,3.5
+South Dakota,Chevrolet Equinox,2.9,GMC Sierra 1500,3.5,Ram 1500,4.4,Chevrolet Silverado 1500,5,Ford F-150,7.6
+Tennessee,Nissan Rogue,2.1,Nissan Altima,2.3,Ram 1500,2.4,Chevrolet Silverado 1500,2.9,Ford F-150,3.6
+Texas,Nissan Altima,1.8,Toyota Camry,2.1,Ram 1500,2.4,Chevrolet Silverado 1500,3.4,Ford F-150,3.7
+Utah,Honda Civic,1.9,Toyota Tacoma,1.9,Chevrolet Silverado 1500,2.1,Ram 1500,2.1,Ford F-150,5
+Vermont,Toyota RAV4,4.6,Ford F-150,4.4,Toyota Tacoma,3.6,Chevrolet Silverado 1500,3.6,Ram 1500,3
+Virginia,Toyota RAV4,4.6,Ford F-150,2.9,Chevrolet Silverado 1500,2.2,Honda Civic,2.1,Ram 1500,2
+Washington,Ford F-150,3.5,Toyota Tacoma,2.3,Ram 1500,2.2,Chevrolet Silverado 1500,2.1,Honda Civic,1.9
+West Virginia,Ford F-150,5.2,Chevrolet Silverado 1500,4.5,Ram 1500,3.4,Toyota Tacoma,2.6,Chevrolet Equinox,2.6
+Wisconsin,Ford F-150,5.4,Chevrolet Silverado 1500,4.4,Chevrolet Equinox,4.4,Ram 1500,3.5,Ford Escape,2.7
+Wyoming,Ford F-150,7.1,Ram 1500,5.4,Chevrolet Silverado 1500,4.5,GMC Sierra 1500,3,Toyota Tacoma,2.6
